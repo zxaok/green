@@ -1,0 +1,3 @@
+com.zxaeva.greenifyhibernate:string/app_name = 0x7f020000
+com.zxaeva.greenifyhibernate:mipmap/ic_launcher = 0x7f010001
+com.zxaeva.greenifyhibernate:mipmap/ic_banner = 0x7f010000

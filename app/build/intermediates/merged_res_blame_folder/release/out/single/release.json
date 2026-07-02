@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.zxaeva.greenifyhibernate.app-merged_res-4:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.zxaeva.greenifyhibernate.app-main-5:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.zxaeva.greenifyhibernate.app-merged_res-4:/mipmap-anydpi-v26_ic_banner.xml.flat",
+        "source": "com.zxaeva.greenifyhibernate.app-main-5:/mipmap-anydpi-v26/ic_banner.xml"
+    }
+]

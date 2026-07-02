@@ -1,0 +1,73 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /workspaces/green/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /workspaces/green/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /workspaces/green/app/src/main/AndroidManifest.xml:2:1-28:12
+INJECTED from /workspaces/green/app/src/main/AndroidManifest.xml:2:1-28:12
+	package
+		INJECTED from /workspaces/green/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /workspaces/green/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /workspaces/green/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /workspaces/green/app/src/main/AndroidManifest.xml:2:11-69
+uses-feature#android.hardware.touchscreen
+ADDED from /workspaces/green/app/src/main/AndroidManifest.xml:3:5-5:36
+	android:required
+		ADDED from /workspaces/green/app/src/main/AndroidManifest.xml:5:9-33
+	android:name
+		ADDED from /workspaces/green/app/src/main/AndroidManifest.xml:4:9-52
+uses-feature#android.software.leanback
+ADDED from /workspaces/green/app/src/main/AndroidManifest.xml:6:5-8:36
+	android:required
+		ADDED from /workspaces/green/app/src/main/AndroidManifest.xml:8:9-33
+	android:name
+		ADDED from /workspaces/green/app/src/main/AndroidManifest.xml:7:9-49
+application
+ADDED from /workspaces/green/app/src/main/AndroidManifest.xml:10:5-27:19
+INJECTED from /workspaces/green/app/src/main/AndroidManifest.xml:10:5-27:19
+	android:extractNativeLibs
+		INJECTED from /workspaces/green/app/src/main/AndroidManifest.xml
+	android:label
+		ADDED from /workspaces/green/app/src/main/AndroidManifest.xml:11:9-29
+	android:appCategory
+		ADDED from /workspaces/green/app/src/main/AndroidManifest.xml:14:9-36
+	android:icon
+		ADDED from /workspaces/green/app/src/main/AndroidManifest.xml:12:9-43
+	android:banner
+		ADDED from /workspaces/green/app/src/main/AndroidManifest.xml:13:9-43
+activity#com.zxaeva.greenifyhibernate.MainActivity
+ADDED from /workspaces/green/app/src/main/AndroidManifest.xml:15:9-26:20
+	android:excludeFromRecents
+		ADDED from /workspaces/green/app/src/main/AndroidManifest.xml:19:13-46
+	android:noHistory
+		ADDED from /workspaces/green/app/src/main/AndroidManifest.xml:20:13-37
+	android:exported
+		ADDED from /workspaces/green/app/src/main/AndroidManifest.xml:17:13-36
+	android:theme
+		ADDED from /workspaces/green/app/src/main/AndroidManifest.xml:18:13-72
+	android:name
+		ADDED from /workspaces/green/app/src/main/AndroidManifest.xml:16:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER+category:name:android.intent.category.LEANBACK_LAUNCHER
+ADDED from /workspaces/green/app/src/main/AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from /workspaces/green/app/src/main/AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from /workspaces/green/app/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /workspaces/green/app/src/main/AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from /workspaces/green/app/src/main/AndroidManifest.xml:23:27-74
+category#android.intent.category.LEANBACK_LAUNCHER
+ADDED from /workspaces/green/app/src/main/AndroidManifest.xml:24:17-86
+	android:name
+		ADDED from /workspaces/green/app/src/main/AndroidManifest.xml:24:27-83
+uses-sdk
+INJECTED from /workspaces/green/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /workspaces/green/app/src/main/AndroidManifest.xml
+INJECTED from /workspaces/green/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /workspaces/green/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /workspaces/green/app/src/main/AndroidManifest.xml

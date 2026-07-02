@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.zxaeva.greenifyhibernate.app-mergeReleaseResources-2:/values/values.xml",
+            "map": [
+                {
+                    "source": "/workspaces/green/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "41",
+                        "endOffsets": "53"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "41",
+                        "endOffsets": "92"
+                    }
+                }
+            ]
+        }
+    ]
+}

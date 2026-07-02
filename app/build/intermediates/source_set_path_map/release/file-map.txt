@@ -1,0 +1,7 @@
+com.zxaeva.greenifyhibernate.app-pngs-0 /workspaces/green/app/build/generated/res/pngs/release
+com.zxaeva.greenifyhibernate.app-resValues-1 /workspaces/green/app/build/generated/res/resValues/release
+com.zxaeva.greenifyhibernate.app-packageReleaseResources-2 /workspaces/green/app/build/intermediates/incremental/release/packageReleaseResources/merged.dir
+com.zxaeva.greenifyhibernate.app-packageReleaseResources-3 /workspaces/green/app/build/intermediates/incremental/release/packageReleaseResources/stripped.dir
+com.zxaeva.greenifyhibernate.app-merged_res-4 /workspaces/green/app/build/intermediates/merged_res/release
+com.zxaeva.greenifyhibernate.app-main-5 /workspaces/green/app/src/main/res
+com.zxaeva.greenifyhibernate.app-release-6 /workspaces/green/app/src/release/res
